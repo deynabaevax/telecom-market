@@ -1,6 +1,3 @@
-# telecom-market
-Candidate Brief: Telecom Market Entry Analysis 
-
 # Telecom Market Entry Analysis
 
 This repository contains the analytical framework and data models used to evaluate eSIM market entry strategies for emerging telecom markets, as outlined in the [Candidate Brief](https://github.com/user-attachments/files/20928648/Candidate.Brief.pdf). The analysis focuses on infrastructure readiness, affordability, and consumer sentiment across Thailand, Mexico, and South Africa.
