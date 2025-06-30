@@ -17,3 +17,8 @@ To support strategic decision-making for eSIM deployment by identifying optimal 
 
 Compiles key findings into a Power BI dashboard.
 ![Image](https://github.com/user-attachments/assets/51a3d18a-57f3-40ed-a415-3c9e9608af23)
+
+
+## Report
+
+The report outlines the methods used along with justifications ([Telecom Market Entry Analysis Report.pdf](https://github.com/user-attachments/files/20980443/Telecom.Market.Entry.Analysis.Report.pdf)). 
